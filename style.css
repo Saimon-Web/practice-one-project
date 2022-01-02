@@ -28,3 +28,6 @@ p{
     text-decoration: none;
     color: blue;
 }
+.second-section{
+    display: flex;
+}
